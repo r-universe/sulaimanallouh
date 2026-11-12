@@ -1,0 +1,10 @@
+{
+  "id": 181252600,
+  "created_at": "2026-11-12T13:31:30.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["gaza-resilient-homes-research", "gaza-resilient-homes-site", "sulaimanallouh.r-universe.dev"]
+}
